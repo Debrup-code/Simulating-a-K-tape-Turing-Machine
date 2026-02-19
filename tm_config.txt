@@ -1,0 +1,9 @@
+3
+_
+q0
+q_accept
+q_reject
+1011
+q0, 1__, q0, 1_1, RSR
+q0, 0__, q0, 0_0, RSR
+q0, ___, q_accept, ___, SSS
